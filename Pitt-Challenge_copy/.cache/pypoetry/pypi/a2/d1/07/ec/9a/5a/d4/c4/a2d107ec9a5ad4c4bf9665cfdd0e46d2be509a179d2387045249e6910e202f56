@@ -1,0 +1,1 @@
+9999999999{"name": "PyQt6-sip", "version": "13.4.0", "summary": "The sip module support for PyQt6", "platform": "X11", "requires_dist": null, "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}

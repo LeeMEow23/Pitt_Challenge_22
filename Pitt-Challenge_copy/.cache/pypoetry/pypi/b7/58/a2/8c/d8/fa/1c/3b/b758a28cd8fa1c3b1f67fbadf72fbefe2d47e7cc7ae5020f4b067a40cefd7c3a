@@ -1,0 +1,1 @@
+9999999999{"name": "PyQt6-Qt6", "version": "6.4.0", "summary": "The subset of a Qt installation needed by PyQt6.", "platform": "Linux", "requires_dist": null, "requires_python": null, "files": [], "_cache_version": "1.0.0"}

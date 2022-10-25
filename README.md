@@ -1,4 +1,5 @@
 AccessRx
+
 Project purpose: Improving medication literacy among immigrant elderly through a comprehensive platform assisting in prescription translation, labeling, and reminders.
 
 WINNER Pitt Challenge 2022 Hackthon For Increasing Health Literacy
